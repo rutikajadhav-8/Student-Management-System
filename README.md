@@ -60,4 +60,4 @@ This project demonstrates core database concepts including database design, norm
 
 ## Database Schema
 
-Departments|Students|Courses|Enrollment|Attendance|Examinations
+Departments | Students | Courses | Enrollment | Attendance | Examinations
